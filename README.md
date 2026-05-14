@@ -27,6 +27,6 @@
 - **Metric:** Provides a clear 0-100 readiness score.
 - **Actionable:** Gives a personalized feedback report instead of just a number.
 - **Tech Stack:** Built with pure Vanilla JS, HTML5, and CSS3 for lightning-fast performance.
-
+https://drive.google.com/file/d/15F3b1t-TBc571mGUjBoUS-fyBqgeAFfC/view?usp=drivesdk
 ---
 > "Success is the sum of small efforts repeated day in and day out." — CareerForge AI is here to make those efforts count!
